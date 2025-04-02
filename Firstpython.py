@@ -1,0 +1,2 @@
+# تعليق 
+print(" Hello world ")
